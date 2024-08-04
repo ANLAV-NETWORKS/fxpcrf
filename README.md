@@ -1,2 +1,2 @@
 # fxpcrf
-Telecom - 4G - Policy and Charging Rules Function
+Telecom - 4G - PCRF - Policy and Charging Rules Function
